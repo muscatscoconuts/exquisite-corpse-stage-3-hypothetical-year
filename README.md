@@ -54,11 +54,11 @@ The program offsets the number of days in the past to match the seasonal scenery
 
 
 ### 🟩 Stage 3
-- Name/Alias:
-- Github account:
-- Published webpage for stage 3:
+- Name/Alias:kike/muscatscoconuts
+- Github account:https://github.com/muscatscoconuts
+- Published webpage for stage 3:https://muscatscoconuts.github.io/exquisite-corpse-stage-3-years-in-the-future/
 
-*... comments to be added here*
+I was inspired by Ruiting's writing about the beauty and serenity of the natural world, and decided to be a bit of a debby downer. The images that appear on screen represent natural wonders of the world that are existing(the sapling), disappearing(the dying flower) and have already been lost(the gravestone). I researched the natural wonders of the earth and compiled my own dataset categorising the state of natural wonders for each continent using information from Unesco and other articles. I used the table to decide the number of each image drawn. The sketch continually generates a visualisation of the data over and over again, so the screen fills and becomes a kind of field, with the disappearing and lost natural wonders as odd ones out. The text in the middle is a reminder that the natural environment and beauty will not last forever - either impacted by the cycle of natural life itself or human actions. Nothing lasts forever!!!!!
 
 ### 🟦 Stage 4
 - Name/Alias:
